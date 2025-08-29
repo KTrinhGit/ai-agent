@@ -12,3 +12,7 @@ pyproject.toml
 
 # Virtual environments
 .venv
+
+# Misc
+calculator/lorem.txt
+morelorem.txt
